@@ -4,4 +4,4 @@
 
 #Compiling in a non UNIX/Linux environment will cause errors
 
-Demonstrationg of a multi-threaded process that receives and processes information, using mutex and condition variables to limit access to shared memory
+Demonstration of a multi-threaded process that receives and processes information, using mutex and condition variables to limit access to shared memory
